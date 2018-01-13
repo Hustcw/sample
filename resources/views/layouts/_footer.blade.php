@@ -6,7 +6,7 @@
     </small>
     <nav>
       <ul>
-        <li><a href="{{route('about')}}">关于</a></li>
+        <li><a href="http://47.100.18.67/bootstrap/about_us.html">关于</a></li>
       </ul>
     </nav>
   </footer>
